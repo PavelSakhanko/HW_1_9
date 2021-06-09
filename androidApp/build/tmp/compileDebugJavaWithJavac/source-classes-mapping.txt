@@ -1,0 +1,2 @@
+me/pavelsakhanko/androidApp/BuildConfig.java
+ me.pavelsakhanko.androidApp.BuildConfig
