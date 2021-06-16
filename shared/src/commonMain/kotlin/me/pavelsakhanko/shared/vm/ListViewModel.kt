@@ -1,4 +1,4 @@
-package me.pavelsakhanko.shared
+package me.pavelsakhanko.shared.models
 
 import io.ktor.client.*
 import io.ktor.client.features.json.*
@@ -13,7 +13,7 @@ class ListViewModel {
         }
     }
 
-    private val api = RecipeAPI(
+    private val api = RecipeApi(
         httpClient = httpClient,
         json = kotlinx.serialization.json.Json { ignoreUnknownKeys = true }
     )

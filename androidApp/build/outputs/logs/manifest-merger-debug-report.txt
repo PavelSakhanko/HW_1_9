@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
 MERGED from [:shared] /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.2.1] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/59b215bfea469dc6aced786301183bb2/material-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/92b8ba7173432c0ebfe940f8e8b8579a/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
@@ -33,25 +33,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pavelsakhanko/.
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/c9703ea6019a4ddfe281f918e1a2727c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/acd1b5fa142d9a95c1b91b8481f29a0f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/13bc23289598eb025bf1b1edce956e84/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
-INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
 	package
 		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:70-107
 		INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml
 		INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
 		INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-14:12
+		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:1-16:12
 		INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:3:5-13:19
+ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:3:5-15:19
 MERGED from [com.google.android.material:material:1.2.1] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/59b215bfea469dc6aced786301183bb2/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/59b215bfea469dc6aced786301183bb2/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/pavelsakhanko/.gradle/caches/transforms-2/files-2.1/92b8ba7173432c0ebfe940f8e8b8579a/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
@@ -69,19 +69,19 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/pave
 	android:theme
 		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:6:13-44
 activity#me.pavelsakhanko.androidApp.MainActivity
-ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:7:9-12:20
+ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:9:9-14:20
 	android:name
-		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:7:19-47
+		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:9:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:8:13-11:29
+ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:10:13-13:29
 action#android.intent.action.MAIN
-ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:9:17-68
+ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:11:17-68
 	android:name
-		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:9:25-66
+		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:11:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:10:17-76
+ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:12:17-76
 	android:name
-		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:10:27-74
+		ADDED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml:12:27-74
 uses-sdk
 INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/AndroidManifest.xml

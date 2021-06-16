@@ -2,5 +2,9 @@
     {
         "merged": "/Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/build/intermediates/res/merged/debug/layout_item_recipe.xml.flat",
+        "source": "/Users/pavelsakhanko/Desktop/OtusHWs/HW_1_9/androidApp/src/main/res/layout/item_recipe.xml"
     }
 ]

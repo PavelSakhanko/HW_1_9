@@ -1,12 +1,14 @@
-package me.pavelsakhanko.shared
+package me.pavelsakhanko.shared.models
 
-import kotlinx.serialization.SerialName
-import kotlinx.serialization.Serializable
+import kotlinx.serialization.*
 
+/**
+ *
+ * @param title
+ * @param results
+ */
 @Serializable
 data class RecipeList (
-    @SerialName("title")
-    val title: String? = null,
-    @SerialName("results")
-    val results: List<Recipe>? = null
-) {}
+    @SerialName(value = "title") val title: String? = null,
+    @SerialName(value = "results") val results: List<Recipe>? = null
+)

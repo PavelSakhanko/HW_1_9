@@ -1,17 +1,19 @@
-package me.pavelsakhanko.shared
+package me.pavelsakhanko.shared.models
 
-import kotlinx.serialization.SerialName
-import kotlinx.serialization.Serializable
+import kotlinx.serialization.*
 
+/**
+ *
+ * @param href
+ * @param title
+ * @param ingredients
+ * @param thumbnail
+ */
 @Serializable
 data class Recipe (
-    @SerialName("href")
-    val href: String,
-    @SerialName("title")
-    val title: String? = null,
-    @SerialName("ingredients")
-    val ingredients: String? = null,
-    @SerialName("thumbnail")
-    val thumbnail: String? = null
-) {}
+    @SerialName(value = "href") @Required val href: String,
+    @SerialName(value = "title") val title: String? = null,
+    @SerialName(value = "ingredients") val ingredients: String? = null,
+    @SerialName(value = "thumbnail") val thumbnail: String? = null
+)
 

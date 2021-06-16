@@ -9,7 +9,7 @@
 import Combine
 import shared
 
-final class ContentViewModel: ObservableObject {
+final class RecipeViewModel: ObservableObject {
     
     @Published var searchText: String = ""
     @Published var recipes: [Recipe] = []
@@ -25,7 +25,7 @@ final class ContentViewModel: ObservableObject {
     }
     
     func fetch() {
-        ListViewModel().list(ingredients: searchText, query: "", page: 1, completionHandler: { list, error  in
+        ListViewModel().list(ingredients: searchText, query: "", page: Int32(1), completionHandler: { list, error  in
             self.recipes = list?.results ?? []
         })
     }

@@ -20,10 +20,10 @@ kotlin {
         }
     }
     val serializationVersion = "1.0.0-RC"
-    val coroutinesVersion = "1.5.0"
+    val coroutinesVersion = "1.3.9-native-mt"
 
     sourceSets {
-        val ktorVersion = "1.5.4"
+        val ktorVersion = "1.4.0"
 
         val commonMain by getting {
             dependencies {
